@@ -1,0 +1,13 @@
+
+# Other formats
+.json
+.pdf
+.csv
+.pickle
+.env
+#Images
+.png
+#Folders
+docs/
+models/
+project/
